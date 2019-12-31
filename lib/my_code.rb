@@ -1,6 +1,6 @@
 # Your Code Here
 
-[1, 2, 3].map { |n| n * 2 } # => [2, 4, 6]
+[1, 2, 3].map_to_square { |n| n * 2 } # => [2, 4, 6]
 
 
 def famous_movie_actors(element1, element2)
